@@ -4,4 +4,4 @@ pandas
 plotly
 numpy
 statsmodels
-sklearn.preprocessing 
+scikit.learn
